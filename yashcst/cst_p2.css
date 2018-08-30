@@ -1,0 +1,125 @@
+/* Style the header */
+.header {
+    color:white;
+    background-color:#1B2631  ;
+    padding: 1px;
+    text-align: center;
+	font-family:georgia;
+	  font-style:italic;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color:#34495E;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-family:georgia;
+}
+
+.topnav a:hover {
+    background-color:#1B2631  ;
+    color: white;
+}
+
+.div1{   
+    border-radius: 
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 103px;
+    margin-left: 103px;
+    background-color:#34495E;
+    color:white;
+    padding: 4px;
+    text-align: left;
+    font-family:georgia; font-weight:1900; font-style:italic;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 1px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family:georgia; font-weight:1900; font-style:italic;
+
+}
+input[type=number], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 1px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family:georgia; font-weight:1900; font-style:italic;
+
+}
+input[type=email],select {
+   
+    padding: 12px 20px;
+    margin: 1px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family:georgia; font-weight:1900; font-style:italic;
+
+}
+input[type=password], select {
+   
+    padding: 12px 20px;
+    margin: 1px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family:georgia; font-weight:1900; font-style:italic;
+
+}
+
+input[type=submit] {
+   
+    background-color: #566573;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+     font-family:georgia; font-weight:1900; font-style:italic;
+
+}
+
+input[type=submit]:hover {
+    background-color: #212F3D;
+
+}
+
+.div2 {
+    margin-top: 10px;
+  
+	
+    border-radius: 5px;
+   background-image:url(book8.jpg);
+    padding: 20px;
+    font-family:georgia; font-weight:1900; font-style:italic;
+
+}
+.div3{
+	height:1000 px;
+	width:100%;
+	margin-top: 10px;
+    border-radius: 5px;
+	  padding: 20px;
+	background-image:url(bbb.jpg);
+    font-family:georgia; font-weight:1900; font-style:italic;
+}

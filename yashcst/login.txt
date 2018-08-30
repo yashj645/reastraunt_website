@@ -1,0 +1,29 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="cst_p1.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<title>CST PROJECT</title>
+</head>
+
+<body>
+
+<!Header of website>
+
+<div class="header">
+<h1>FoodAholics</h1>
+<h4>Find the best restraunts, cafes, and bars.</h4>
+</div>
+
+<!Menu bar>
+
+<div class="topnav">
+ <a href="order.html">Order Food</a>
+  <a href="book.html">Book a Table</a>
+  <a href="homepg.html">Home</a>
+  <a href="#" style="float:right">Log in</a>
+  
+   <a href="create_acc.html" style="float:right">Create an account</a>
+</div>
